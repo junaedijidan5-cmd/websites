@@ -1,4 +1,4 @@
-# Download
+sh /sdcard/Android/data/com.k2tap.master/files/exe/activate.sh# Download
 
 [Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
 
